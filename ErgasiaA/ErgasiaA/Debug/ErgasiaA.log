@@ -1,0 +1,5 @@
+﻿  ErgasiaA.cpp
+c:\users\geomimo\source\repos\compilers\telikes\ergasiaa\ergasiaa\ergasiaa.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\geomimo\source\repos\compilers\telikes\ergasiaa\ergasiaa\ergasiaa.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\geomimo\source\repos\compilers\telikes\ergasiaa\ergasiaa\ergasiaa.cpp(77): warning C4018: '<': signed/unsigned mismatch
+  ErgasiaA.vcxproj -> C:\Users\GeoMimo\source\repos\Compilers\Telikes\ErgasiaA\Debug\ErgasiaA.exe
