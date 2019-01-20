@@ -1,0 +1,3 @@
+﻿  ErgasiaB_CPP.cpp
+c:\users\geomimo\source\repos\compilers\telikes\ergasiab_cpp\ergasiab_cpp\ergasiab_cpp.cpp(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ErgasiaB_CPP.vcxproj -> C:\Users\GeoMimo\source\repos\Compilers\Telikes\ErgasiaB_CPP\Debug\ErgasiaB_CPP.exe
